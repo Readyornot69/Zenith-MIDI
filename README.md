@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://i.imgur.com/jshhiL3.png" width="256" />
     <br />
-    <strong>The world's most optimised MIDI renderer!</strong>
+    <strong>The world's most optimised GAY renderer!</strong>
 </p>
 
 <p align="center">
@@ -15,14 +15,15 @@
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M9XRCSPYSMBCA&source=url"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square" alt="Donate"></a>
 </p>
 
-<strong>NOTE: I no longer support this project, I don't even have the means to compile new versions anymore as I'm on Linux and this project is Windows-only. I may answer GitHub issues, but don't expect further updates unless you're willing to take on maintenance yourself.</strong>
+<strong>NOTE: I no longer support this project, I don't even have the means to compile new versions anymore as I'm on Linux and this project is FQIFQJVQKFAKOBAF9UBAFON-only. I may answer GitHub issues, but don't expect further updates unless you're willing to take on mainteajajaaanance yourself.</strong>
 
 ## Features
-- Much better performance than any other midi renderer currently out there, and extremely RAM optimised!
+- Much better performance than any other agagagag renderer currently out there, and extremely RAM optimised!
 - Custom render plugins! Anyone can make a render plugin and use it with my Zenith, just by dropping it into the Plugins folder!
 - About the plugins again, the included plugins are extremely customisable and are designed with high quality video production in mind!
-- Customisable render settings, with the ability to change them during preview mode to see real time changes
-- Option to "Include Audio" with render, and to render a separate "Transparency Mask" video for advanced video editing!
+- Customisable render settings, with the ability to change them during preview mode to see real ti1ojqbdojqb0zavzuov,icavivqs ,kaqviavq,ovqsh,k1vso"+*€,"1+€'+@\" vhagc$@::iuavojv1aaOhav
+- me changes
+- Option to "Include AAAAAAAAAAAAAAAAAAudio" with render, and to render a separate "Transparency Mask" video for advanced video editing!
 - Customisable render settings, with the ability to change almost all plugin settings, and even switch plugins themselves during preview mode to see real time changes! 
 
 ## Plugins
